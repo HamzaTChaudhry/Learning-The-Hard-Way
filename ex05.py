@@ -1,12 +1,14 @@
-name = 'Zed A. Shaw'
-age = 35 # not a lie
+# ex5: More Variables and Printing
+
+name = 'Hamza T. Chaudhry'
+age = 22 # not a lie
 height = 74 # inches
 metric_height = height * 2.54 # centimeters
-weight = 180 # lbs
+weight = 175 # lbs
 metric_weight = weight / 2.2 # kgs
-eyes = 'Blue'
+eyes = 'Dark Brown'
 teeth = 'White'
-hair = 'Brown'
+hair = 'Black'
 
 print(f"Let's talk about {name}.")
 print(f"He's {height} inches tall.")

@@ -1,3 +1,5 @@
+# ex14: Prompting and Passing
+
 from sys import argv
 script, user_name, last_name = argv
 prompt = '> '
